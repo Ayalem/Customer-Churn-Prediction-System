@@ -1,0 +1,26 @@
+artifact_path: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-1fed6453cdb6449ab26575c74c2e0819/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.5.2
+mlflow_version: 3.5.1
+model_id: m-1fed6453cdb6449ab26575c74c2e0819
+model_size_bytes: 4949
+model_uuid: m-1fed6453cdb6449ab26575c74c2e0819
+prompts: null
+run_id: 726c13c4ee41465bbfcd9b8979b12ba0
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+utc_time_created: '2025-11-06 12:16:41.470028'

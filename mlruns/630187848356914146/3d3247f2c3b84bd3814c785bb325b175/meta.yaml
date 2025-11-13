@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/3d3247f2c3b84bd3814c785bb325b175/artifacts
+deleted_time: 1762501188892
+end_time: 1762499997256
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 3d3247f2c3b84bd3814c785bb325b175
+run_name: sedate-lamb-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499996159
+status: 3
+tags: []
+user_id: ayalemzouri

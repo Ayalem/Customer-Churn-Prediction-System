@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/13700d1552894b4dba6b1fce27b7dd6b/artifacts
+deleted_time: 1762462709017
+end_time: 1762431298089
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 13700d1552894b4dba6b1fce27b7dd6b
+run_name: nimble-shrimp-603
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762431291928
+status: 3
+tags: []
+user_id: ayalemzouri

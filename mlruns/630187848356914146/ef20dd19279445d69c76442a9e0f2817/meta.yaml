@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/ef20dd19279445d69c76442a9e0f2817/artifacts
+deleted_time: 1762501188833
+end_time: 1762500029171
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: ef20dd19279445d69c76442a9e0f2817
+run_name: melodic-tern-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500027944
+status: 3
+tags: []
+user_id: ayalemzouri

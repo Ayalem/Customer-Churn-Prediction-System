@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/60050b8bc5fb4e59ae9342df6cec5c1d/artifacts
+deleted_time: 1762501188912
+end_time: 1762500021069
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 60050b8bc5fb4e59ae9342df6cec5c1d
+run_name: powerful-moth-16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500019953
+status: 3
+tags: []
+user_id: ayalemzouri

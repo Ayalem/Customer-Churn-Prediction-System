@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-8aeb0fa211aa4a0d80aab12599d2319a/artifacts
+creation_timestamp: 1762462622656
+experiment_id: '630187848356914146'
+last_updated_timestamp: 1762462624634
+model_id: m-8aeb0fa211aa4a0d80aab12599d2319a
+model_type: null
+name: random_forest_model
+source_run_id: 8e81b8b22d284eda9b617c5e87aa6434
+status: 2
+status_message: null

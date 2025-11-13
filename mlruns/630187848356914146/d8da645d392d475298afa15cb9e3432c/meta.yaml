@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/d8da645d392d475298afa15cb9e3432c/artifacts
+deleted_time: 1762501188917
+end_time: 1762500019952
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: d8da645d392d475298afa15cb9e3432c
+run_name: capricious-cub-364
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500018803
+status: 3
+tags: []
+user_id: ayalemzouri

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/a1152a0fbce44850babb837ab372e73d/artifacts
+deleted_time: 1762501188918
+end_time: 1762500018801
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: a1152a0fbce44850babb837ab372e73d
+run_name: learned-fox-333
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500017585
+status: 3
+tags: []
+user_id: ayalemzouri

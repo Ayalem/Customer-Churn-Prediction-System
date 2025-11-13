@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/daf141321ba34512b17e18001ebd1b48/artifacts
+deleted_time: 1762501188862
+end_time: 1762499804553
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: daf141321ba34512b17e18001ebd1b48
+run_name: adorable-stork-27
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804522
+status: 3
+tags: []
+user_id: ayalemzouri

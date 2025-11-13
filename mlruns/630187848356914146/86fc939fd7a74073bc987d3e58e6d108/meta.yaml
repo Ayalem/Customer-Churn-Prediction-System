@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/86fc939fd7a74073bc987d3e58e6d108/artifacts
+deleted_time: 1762501188846
+end_time: 1762499776914
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 86fc939fd7a74073bc987d3e58e6d108
+run_name: peaceful-fowl-109
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499776909
+status: 4
+tags: []
+user_id: ayalemzouri

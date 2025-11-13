@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/afd9da2805ee4d0f955298cadc5de8ca/artifacts
+end_time: 1762500732020
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: active
+run_id: afd9da2805ee4d0f955298cadc5de8ca
+run_name: Trial_8_gbtree_maxdepth3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500730914
+status: 3
+tags: []
+user_id: ayalemzouri

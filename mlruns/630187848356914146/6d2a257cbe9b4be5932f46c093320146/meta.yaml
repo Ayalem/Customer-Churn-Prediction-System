@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/6d2a257cbe9b4be5932f46c093320146/artifacts
+deleted_time: 1762501188873
+end_time: 1762499804914
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 6d2a257cbe9b4be5932f46c093320146
+run_name: crawling-crane-139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804897
+status: 3
+tags: []
+user_id: ayalemzouri

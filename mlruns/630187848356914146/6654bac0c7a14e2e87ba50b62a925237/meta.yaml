@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/6654bac0c7a14e2e87ba50b62a925237/artifacts
+deleted_time: 1762501188863
+end_time: 1762499804663
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 6654bac0c7a14e2e87ba50b62a925237
+run_name: clumsy-goat-483
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804590
+status: 3
+tags: []
+user_id: ayalemzouri

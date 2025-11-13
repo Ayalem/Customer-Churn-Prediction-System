@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/e5f83e0e7e204326adcb0f7a7e8c8c24/artifacts
+deleted_time: 1762501188863
+end_time: 1762499804804
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: e5f83e0e7e204326adcb0f7a7e8c8c24
+run_name: rare-shad-619
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804687
+status: 3
+tags: []
+user_id: ayalemzouri

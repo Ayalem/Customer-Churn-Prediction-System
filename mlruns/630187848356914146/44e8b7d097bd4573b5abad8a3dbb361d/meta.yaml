@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/44e8b7d097bd4573b5abad8a3dbb361d/artifacts
+deleted_time: 1762501188856
+end_time: 1762499804394
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 44e8b7d097bd4573b5abad8a3dbb361d
+run_name: popular-lamb-891
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804312
+status: 3
+tags: []
+user_id: ayalemzouri

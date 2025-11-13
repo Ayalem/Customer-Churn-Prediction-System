@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-ccb30d940f554ab098f932148131f176/artifacts
+creation_timestamp: 1762431296556
+experiment_id: '630187848356914146'
+last_updated_timestamp: 1762431298070
+model_id: m-ccb30d940f554ab098f932148131f176
+model_type: null
+name: model
+source_run_id: 13700d1552894b4dba6b1fce27b7dd6b
+status: 2
+status_message: null

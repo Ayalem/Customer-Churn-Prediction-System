@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/d7be36cda4f14fa0b06f85c3431f8268/artifacts
+deleted_time: 1762501188857
+end_time: 1762499804437
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: d7be36cda4f14fa0b06f85c3431f8268
+run_name: worried-gnat-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804423
+status: 3
+tags: []
+user_id: ayalemzouri

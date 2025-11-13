@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-a5d0601e4a4948069974f8f010afa065/artifacts
+creation_timestamp: 1762499992279
+experiment_id: '630187848356914146'
+last_updated_timestamp: 1762499994970
+model_id: m-a5d0601e4a4948069974f8f010afa065
+model_type: null
+name: xgb_model
+source_run_id: 144ab96625fd4f38a0096972f6777c32
+status: 2
+status_message: null

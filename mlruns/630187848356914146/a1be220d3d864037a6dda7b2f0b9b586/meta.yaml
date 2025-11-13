@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/a1be220d3d864037a6dda7b2f0b9b586/artifacts
+deleted_time: 1762501188875
+end_time: 1762499804932
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: a1be220d3d864037a6dda7b2f0b9b586
+run_name: peaceful-stoat-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804915
+status: 3
+tags: []
+user_id: ayalemzouri

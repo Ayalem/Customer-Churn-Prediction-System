@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/87ed11d52bf04726b90175c9da6cedcb/artifacts
+deleted_time: 1762501188832
+end_time: 1762500026732
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 87ed11d52bf04726b90175c9da6cedcb
+run_name: stately-carp-882
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500025581
+status: 3
+tags: []
+user_id: ayalemzouri

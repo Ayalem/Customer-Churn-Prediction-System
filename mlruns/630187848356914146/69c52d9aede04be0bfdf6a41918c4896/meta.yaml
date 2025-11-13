@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/69c52d9aede04be0bfdf6a41918c4896/artifacts
+deleted_time: 1762501188856
+end_time: 1762499804311
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 69c52d9aede04be0bfdf6a41918c4896
+run_name: skillful-bug-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804278
+status: 3
+tags: []
+user_id: ayalemzouri

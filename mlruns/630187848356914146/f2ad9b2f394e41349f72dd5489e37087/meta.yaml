@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/f2ad9b2f394e41349f72dd5489e37087/artifacts
+deleted_time: 1762501188839
+end_time: 1762499645893
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: f2ad9b2f394e41349f72dd5489e37087
+run_name: bemused-cow-385
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499645864
+status: 4
+tags: []
+user_id: ayalemzouri

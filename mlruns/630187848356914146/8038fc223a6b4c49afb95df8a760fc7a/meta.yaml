@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/8038fc223a6b4c49afb95df8a760fc7a/artifacts
+deleted_time: 1762501188834
+end_time: 1762500023341
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 8038fc223a6b4c49afb95df8a760fc7a
+run_name: useful-snipe-610
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500022215
+status: 3
+tags: []
+user_id: ayalemzouri

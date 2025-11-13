@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/a418c1c7a146452eba9fc59a5fc7f394/artifacts
+end_time: 1762500751296
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: active
+run_id: a418c1c7a146452eba9fc59a5fc7f394
+run_name: Trial_25_gblinear_maxdepthNA
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500750195
+status: 3
+tags: []
+user_id: ayalemzouri

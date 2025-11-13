@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/cbb4d708ee8f40b4bd05d58b1c913595/artifacts
+deleted_time: 1762501188876
+end_time: 1762499804968
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: cbb4d708ee8f40b4bd05d58b1c913595
+run_name: likeable-bee-916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804951
+status: 3
+tags: []
+user_id: ayalemzouri

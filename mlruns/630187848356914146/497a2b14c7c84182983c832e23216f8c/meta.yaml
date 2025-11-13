@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/497a2b14c7c84182983c832e23216f8c/artifacts
+deleted_time: 1762501188900
+end_time: 1762500004315
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 497a2b14c7c84182983c832e23216f8c
+run_name: gregarious-mouse-418
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500003154
+status: 3
+tags: []
+user_id: ayalemzouri

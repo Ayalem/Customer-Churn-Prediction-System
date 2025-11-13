@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/465c134e50fe4997b3b829a9af8a91d4/artifacts
+deleted_time: 1762501265871
+end_time: 1762496657110
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 465c134e50fe4997b3b829a9af8a91d4
+run_name: tasteful-sloth-701
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762496657102
+status: 4
+tags: []
+user_id: ayalemzouri

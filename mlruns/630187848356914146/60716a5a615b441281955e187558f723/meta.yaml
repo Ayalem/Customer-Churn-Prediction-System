@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/60716a5a615b441281955e187558f723/artifacts
+deleted_time: 1762501265871
+end_time: 1762496676049
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 60716a5a615b441281955e187558f723
+run_name: shivering-hare-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762496676038
+status: 4
+tags: []
+user_id: ayalemzouri

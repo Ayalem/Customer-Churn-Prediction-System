@@ -1,0 +1,79 @@
+      gender Partner Dependents PhoneService     MultipleLines  \
+185   Female     Yes         No           No  No phone service   
+2715    Male      No         No          Yes               Yes   
+3825  Female     Yes        Yes          Yes                No   
+1807  Female      No         No          Yes                No   
+132     Male      No         No          Yes                No   
+...      ...     ...        ...          ...               ...   
+6366  Female     Yes         No          Yes                No   
+315     Male     Yes        Yes          Yes               Yes   
+2439    Male     Yes        Yes          Yes                No   
+5002  Female     Yes        Yes           No  No phone service   
+1161    Male      No        Yes           No  No phone service   
+
+     InternetService       OnlineSecurity         OnlineBackup  \
+185              DSL                   No                   No   
+2715              No  No internet service  No internet service   
+3825              No  No internet service  No internet service   
+1807     Fiber optic                   No                   No   
+132              DSL                   No                   No   
+...              ...                  ...                  ...   
+6366             DSL                   No                  Yes   
+315      Fiber optic                  Yes                  Yes   
+2439              No  No internet service  No internet service   
+5002             DSL                  Yes                   No   
+1161             DSL                   No                  Yes   
+
+         DeviceProtection          TechSupport          StreamingTV  \
+185                    No                   No                   No   
+2715  No internet service  No internet service  No internet service   
+3825  No internet service  No internet service  No internet service   
+1807                  Yes                   No                   No   
+132                    No                  Yes                   No   
+...                   ...                  ...                  ...   
+6366                  Yes                  Yes                   No   
+315                    No                  Yes                  Yes   
+2439  No internet service  No internet service  No internet service   
+5002                  Yes                   No                   No   
+1161                   No                   No                   No   
+
+          StreamingMovies        Contract PaperlessBilling  \
+185                    No  Month-to-month              Yes   
+2715  No internet service  Month-to-month              Yes   
+3825  No internet service        Two year               No   
+1807                   No  Month-to-month               No   
+132                    No        Two year               No   
+...                   ...             ...              ...   
+6366                  Yes        Two year              Yes   
+315                   Yes        One year               No   
+2439  No internet service        One year               No   
+5002                  Yes        Two year              Yes   
+1161                   No  Month-to-month              Yes   
+
+                  PaymentMethod  SeniorCitizen  tenure  MonthlyCharges  \
+185            Electronic check              0       1           24.80   
+2715  Bank transfer (automatic)              0      41           25.25   
+3825               Mailed check              0      52           19.35   
+1807           Electronic check              0       1           76.35   
+132   Bank transfer (automatic)              0      67           50.55   
+...                         ...            ...     ...             ...   
+6366               Mailed check              0      64           68.30   
+315     Credit card (automatic)              0      51          110.05   
+2439  Bank transfer (automatic)              0      17           19.90   
+5002    Credit card (automatic)              0      69           43.95   
+1161               Mailed check              0       1           31.35   
+
+      TotalCharges  
+185          24.80  
+2715        996.45  
+3825       1031.70  
+1807         76.35  
+132        3260.10  
+...            ...  
+6366       4378.80  
+315        5686.40  
+2439        329.75  
+5002       2960.10  
+1161         31.35  
+
+[1409 rows x 19 columns]

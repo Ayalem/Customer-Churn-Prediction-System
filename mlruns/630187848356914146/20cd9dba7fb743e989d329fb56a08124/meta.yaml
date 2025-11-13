@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/20cd9dba7fb743e989d329fb56a08124/artifacts
+deleted_time: 1762501265874
+end_time: 1762499520130
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 20cd9dba7fb743e989d329fb56a08124
+run_name: amazing-snail-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499520107
+status: 4
+tags: []
+user_id: ayalemzouri

@@ -1,0 +1,6 @@
+artifact_location: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146
+creation_time: 1762430934529
+experiment_id: '630187848356914146'
+last_update_time: 1762430934529
+lifecycle_stage: active
+name: Churn_prediction_random_search

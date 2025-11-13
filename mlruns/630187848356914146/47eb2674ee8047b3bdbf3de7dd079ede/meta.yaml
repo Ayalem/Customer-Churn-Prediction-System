@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/47eb2674ee8047b3bdbf3de7dd079ede/artifacts
+deleted_time: 1762501188912
+end_time: 1762500013882
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 47eb2674ee8047b3bdbf3de7dd079ede
+run_name: magnificent-fly-859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500012740
+status: 3
+tags: []
+user_id: ayalemzouri

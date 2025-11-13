@@ -1,0 +1,22 @@
+artifact_path: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-d25074d33333483ea1ccf827e2f63cc5/artifacts
+flavors:
+  python_function:
+    data: model.xgb
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.xgboost
+    python_version: 3.12.5
+  xgboost:
+    code: null
+    data: model.xgb
+    model_class: xgboost.core.Booster
+    model_format: xgb
+    xgb_version: 3.0.0
+mlflow_version: 3.5.1
+model_id: m-d25074d33333483ea1ccf827e2f63cc5
+model_size_bytes: 2122
+model_uuid: m-d25074d33333483ea1ccf827e2f63cc5
+prompts: null
+run_id: ba97dc03c02f4fcd894e40654acb54cf
+utc_time_created: '2025-11-07 07:32:29.114122'

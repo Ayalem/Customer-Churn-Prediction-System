@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/c80573fa04e24cf38fee1fdc9dd93179/artifacts
+deleted_time: 1762501188904
+end_time: 1762500008020
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: c80573fa04e24cf38fee1fdc9dd93179
+run_name: classy-snail-535
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500006816
+status: 3
+tags: []
+user_id: ayalemzouri

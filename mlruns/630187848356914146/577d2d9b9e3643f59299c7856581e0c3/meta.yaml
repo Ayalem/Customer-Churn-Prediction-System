@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/577d2d9b9e3643f59299c7856581e0c3/artifacts
+deleted_time: 1762501188860
+end_time: 1762499804502
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 577d2d9b9e3643f59299c7856581e0c3
+run_name: bald-penguin-416
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804472
+status: 3
+tags: []
+user_id: ayalemzouri

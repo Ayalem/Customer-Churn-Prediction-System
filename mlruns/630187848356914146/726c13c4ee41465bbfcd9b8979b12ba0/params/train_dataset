@@ -1,0 +1,79 @@
+      gender Partner Dependents PhoneService     MultipleLines  \
+2142  Female      No        Yes          Yes                No   
+1623  Female      No         No          Yes               Yes   
+6074    Male     Yes         No           No  No phone service   
+1362    Male      No         No          Yes                No   
+6754    Male      No        Yes          Yes               Yes   
+...      ...     ...        ...          ...               ...   
+3772    Male     Yes         No          Yes                No   
+5191  Female     Yes        Yes          Yes               Yes   
+5226    Male     Yes        Yes          Yes                No   
+5390    Male      No         No          Yes               Yes   
+860     Male      No         No          Yes                No   
+
+     InternetService       OnlineSecurity         OnlineBackup  \
+2142             DSL                  Yes                   No   
+1623     Fiber optic                   No                  Yes   
+6074             DSL                   No                   No   
+1362     Fiber optic                   No                   No   
+6754             DSL                  Yes                  Yes   
+...              ...                  ...                  ...   
+3772     Fiber optic                  Yes                   No   
+5191             DSL                  Yes                  Yes   
+5226              No  No internet service  No internet service   
+5390     Fiber optic                   No                   No   
+860               No  No internet service  No internet service   
+
+         DeviceProtection          TechSupport          StreamingTV  \
+2142                  Yes                   No                   No   
+1623                   No                   No                  Yes   
+6074                   No                   No                   No   
+1362                   No                   No                   No   
+6754                   No                  Yes                   No   
+...                   ...                  ...                  ...   
+3772                   No                   No                  Yes   
+5191                  Yes                  Yes                  Yes   
+5226  No internet service  No internet service  No internet service   
+5390                  Yes                   No                  Yes   
+860   No internet service  No internet service  No internet service   
+
+          StreamingMovies        Contract PaperlessBilling  \
+2142                  Yes        One year               No   
+1623                  Yes        Two year              Yes   
+6074                   No  Month-to-month              Yes   
+1362                   No  Month-to-month              Yes   
+6754                   No        Two year              Yes   
+...                   ...             ...              ...   
+3772                  Yes  Month-to-month              Yes   
+5191                  Yes        Two year              Yes   
+5226  No internet service  Month-to-month              Yes   
+5390                  Yes  Month-to-month              Yes   
+860   No internet service        One year               No   
+
+                  PaymentMethod  SeniorCitizen  tenure  MonthlyCharges  \
+2142               Mailed check              0      21           64.85   
+1623  Bank transfer (automatic)              0      54           97.20   
+6074           Electronic check              0       1           23.45   
+1362           Electronic check              0       4           70.20   
+6754  Bank transfer (automatic)              0       0           61.90   
+...                         ...            ...     ...             ...   
+3772           Electronic check              0       1           95.00   
+5191    Credit card (automatic)              0      23           91.10   
+5226           Electronic check              0      12           21.15   
+5390           Electronic check              1      12           99.45   
+860     Credit card (automatic)              0      26           19.80   
+
+      TotalCharges  
+2142       1336.80  
+1623       5129.45  
+6074         23.45  
+1362        237.95  
+6754          0.00  
+...            ...  
+3772         95.00  
+5191       2198.30  
+5226        306.05  
+5390       1200.15  
+860         457.30  
+
+[5634 rows x 19 columns]

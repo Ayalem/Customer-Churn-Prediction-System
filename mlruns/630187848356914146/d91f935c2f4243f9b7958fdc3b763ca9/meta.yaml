@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/d91f935c2f4243f9b7958fdc3b763ca9/artifacts
+deleted_time: 1762501188878
+end_time: 1762499804949
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: d91f935c2f4243f9b7958fdc3b763ca9
+run_name: chill-kite-844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804933
+status: 3
+tags: []
+user_id: ayalemzouri

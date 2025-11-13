@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/9834d8a533204f5fa14eaef22ccab96e/artifacts
+deleted_time: 1762501188847
+end_time: 1762499776907
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 9834d8a533204f5fa14eaef22ccab96e
+run_name: welcoming-trout-7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499776893
+status: 3
+tags: []
+user_id: ayalemzouri

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/6366da9ad42445a3bbf8a7b75ee2ec67/artifacts
+deleted_time: 1762501188904
+end_time: 1762500009136
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 6366da9ad42445a3bbf8a7b75ee2ec67
+run_name: puzzled-smelt-938
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500008021
+status: 3
+tags: []
+user_id: ayalemzouri

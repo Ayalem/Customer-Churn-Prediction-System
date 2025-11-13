@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/2acf5d6b73094020abc2c7acab828dfc/artifacts
+deleted_time: 1762501188893
+end_time: 1762499998564
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 2acf5d6b73094020abc2c7acab828dfc
+run_name: charming-sheep-517
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499997258
+status: 3
+tags: []
+user_id: ayalemzouri

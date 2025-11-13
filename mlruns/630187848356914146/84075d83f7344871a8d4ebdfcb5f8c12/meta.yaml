@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/84075d83f7344871a8d4ebdfcb5f8c12/artifacts
+deleted_time: 1762501188884
+end_time: 1762499805153
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 84075d83f7344871a8d4ebdfcb5f8c12
+run_name: placid-rat-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499805133
+status: 3
+tags: []
+user_id: ayalemzouri

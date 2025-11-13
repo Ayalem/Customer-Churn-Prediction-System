@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/157799167fc44dd8aad26da2c55a98ce/artifacts
+deleted_time: 1762462688944
+end_time: 1762462496915
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 157799167fc44dd8aad26da2c55a98ce
+run_name: fearless-hound-90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762462464079
+status: 4
+tags: []
+user_id: ayalemzouri

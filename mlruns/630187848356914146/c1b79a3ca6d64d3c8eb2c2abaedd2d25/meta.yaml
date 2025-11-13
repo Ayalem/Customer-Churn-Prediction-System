@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/c1b79a3ca6d64d3c8eb2c2abaedd2d25/artifacts
+deleted_time: 1762501188897
+end_time: 1762500002033
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: c1b79a3ca6d64d3c8eb2c2abaedd2d25
+run_name: learned-stag-54
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762500000878
+status: 3
+tags: []
+user_id: ayalemzouri

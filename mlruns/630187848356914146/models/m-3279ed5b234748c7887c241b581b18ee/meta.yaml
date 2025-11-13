@@ -1,0 +1,10 @@
+artifact_location: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/models/m-3279ed5b234748c7887c241b581b18ee/artifacts
+creation_timestamp: 1762431559595
+experiment_id: '630187848356914146'
+last_updated_timestamp: 1762431560643
+model_id: m-3279ed5b234748c7887c241b581b18ee
+model_type: null
+name: model_logistic
+source_run_id: 3adc946366144197b06e3feb2338771e
+status: 2
+status_message: null

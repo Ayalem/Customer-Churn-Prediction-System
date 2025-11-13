@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/edc127949fff456ab44371ad77b01c68/artifacts
+deleted_time: 1762501188842
+end_time: 1762499716645
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: edc127949fff456ab44371ad77b01c68
+run_name: vaunted-crane-111
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499716585
+status: 3
+tags: []
+user_id: ayalemzouri

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/2371eebeb1bb4802bce53cce84a9e61e/artifacts
+deleted_time: 1762501188873
+end_time: 1762499804895
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 2371eebeb1bb4802bce53cce84a9e61e
+run_name: thoughtful-sponge-28
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804852
+status: 3
+tags: []
+user_id: ayalemzouri

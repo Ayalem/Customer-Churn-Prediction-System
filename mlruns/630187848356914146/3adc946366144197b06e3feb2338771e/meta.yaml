@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/3adc946366144197b06e3feb2338771e/artifacts
+end_time: 1762431560644
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: active
+run_id: 3adc946366144197b06e3feb2338771e
+run_name: logistic_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762431553615
+status: 3
+tags: []
+user_id: ayalemzouri

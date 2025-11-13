@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ayalemzouri/Desktop/Extraculicular/projects/classification_pojects/telco_churn_project/mlruns/630187848356914146/0dc0d7db552e4abaa48245f249de7a21/artifacts
+deleted_time: 1762501188863
+end_time: 1762499804521
+entry_point_name: ''
+experiment_id: '630187848356914146'
+lifecycle_stage: deleted
+run_id: 0dc0d7db552e4abaa48245f249de7a21
+run_name: bald-mouse-37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762499804503
+status: 3
+tags: []
+user_id: ayalemzouri
