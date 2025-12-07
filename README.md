@@ -1,4 +1,4 @@
-# Customer Churn Prediction API
+# Customer Churn Prediction 
 
 *This project  is designed to predict customer churn and serve predictions.
 It demonstrates the full ML lifecycle — from data preprocessing and model training to experiment tracking, deployment, and reproducibility using MLOps tools.
